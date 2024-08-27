@@ -1,0 +1,14 @@
+div{
+    border-bottom-color: #ff0000 ;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    background-color: #eee;
+    
+
+}
+h1{
+    
+    border-bottom: black solid 8px ;
+   display: inline-block;
+   text-align: center;
+}
